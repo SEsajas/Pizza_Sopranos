@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/composer" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Pizza/vendor/symfony/cache-contracts" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>
